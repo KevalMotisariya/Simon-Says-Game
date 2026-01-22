@@ -76,7 +76,7 @@ Siomn-Says-Game/
 Aspiring Full Stack Developer
 - GitHub: https://github.com/KevalMotisariya
 - Portfolio: https://kevalmotisariyadev.lovable.app/
-- LinkdIn: https://www.linkedin.com/in/keval-motisariya/
+- LinkedIn: https://www.linkedin.com/in/keval-motisariya/
 - Email: kevalmotisariya225@gmail.com
 - Contact: +91 9023966995
 
